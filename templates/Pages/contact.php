@@ -157,13 +157,13 @@
             <div class="col-12">
                 <h3 class="mb-4">Ready to Access Our Systems?</h3>
                 <div class="d-flex flex-wrap justify-content-center gap-3">
-                    <a href="http://nursing.yourdomain.com" class="btn btn-primary" target="_blank">
+                    <a href="https://demo.nurseholding.dataratiba.com/" class="btn btn-primary" target="_blank">
                         <i class="fas fa-user-nurse me-2"></i>Nursing Portal
                     </a>
-                    <a href="http://imaging.yourdomain.com" class="btn btn-primary" target="_blank">
+                    <a href="https://demo.imaging.dataratiba.com/" class="btn btn-primary" target="_blank">
                         <i class="fas fa-x-ray me-2"></i>Imaging System
                     </a>
-                    <a href="http://patients.yourdomain.com" class="btn btn-primary" target="_blank">
+                    <a href="#" class="btn btn-primary" target="_blank">
                         <i class="fas fa-users-cog me-2"></i>Patient Management
                     </a>
                 </div>

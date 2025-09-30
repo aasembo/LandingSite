@@ -47,7 +47,7 @@
                             <li><i class="fas fa-check text-success me-2"></i>Patient Assignments</li>
                             <li><i class="fas fa-check text-success me-2"></i>Care Coordination</li>
                         </ul>
-                        <a href="http://nursing.yourdomain.com" class="btn btn-primary" target="_blank">
+                        <a href="https://demo.nurseholding.dataratiba.com/" class="btn btn-primary" target="_blank">
                             <i class="fas fa-external-link-alt me-2"></i>Access Nursing Portal
                         </a>
                     </div>
@@ -69,7 +69,7 @@
                             <li><i class="fas fa-check text-success me-2"></i>Workflow Optimization</li>
                             <li><i class="fas fa-check text-success me-2"></i>Resource Allocation</li>
                         </ul>
-                        <a href="http://imaging.yourdomain.com" class="btn btn-primary" target="_blank">
+                        <a href="https://demo.imaging.dataratiba.com/" class="btn btn-primary" target="_blank">
                             <i class="fas fa-external-link-alt me-2"></i>Access Imaging System
                         </a>
                     </div>
@@ -91,7 +91,7 @@
                             <li><i class="fas fa-check text-success me-2"></i>Medical Records System</li>
                             <li><i class="fas fa-check text-success me-2"></i>Integrated Healthcare Workflow</li>
                         </ul>
-                        <a href="http://patients.yourdomain.com" class="btn btn-primary" target="_blank">
+                        <a href="#" class="btn btn-primary" target="_blank">
                             <i class="fas fa-external-link-alt me-2"></i>Access Patient Portal
                         </a>
                     </div>

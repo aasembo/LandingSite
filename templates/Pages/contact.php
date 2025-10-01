@@ -126,7 +126,7 @@
                 <div class="p-4">
                     <i class="fas fa-envelope fa-3x text-primary mb-3"></i>
                     <h5 class="fw-bold">Email Support</h5>
-                    <p class="text-muted">admin@dataratiba.com</p>
+                    <p class="text-muted">maxwell@handhconsult.com</p>
                     <small class="text-muted">Response within 24 hours</small>
                 </div>
             </div>
@@ -134,7 +134,7 @@
                 <div class="p-4">
                     <i class="fas fa-phone fa-3x text-primary mb-3"></i>
                     <h5 class="fw-bold">Phone Support</h5>
-                    <p class="text-muted">+1 (555) 123-4567</p>
+                    <p class="text-muted">+1 (512) 964-5351</p>
                     <small class="text-muted">Mon-Fri, 8AM-6PM EST</small>
                 </div>
             </div>
